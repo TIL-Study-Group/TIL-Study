@@ -18,7 +18,7 @@
   - [DAY2] [해시 이론](https://github.com/central1214/algotithmPractice/blob/main/HashMap/README.md) (by Junghoon) :heavy_check_mark: 
   - [DAY3] [1.해시 문제풀이](https://github.com/Yejin-Carol/TIL_Study/blob/main/1.%20Hash.md) (by Yejin) :heavy_check_mark:  <br />     [2.해시 문제 풀이](https://github.com/rhkrdndud22/programus/commit/32cf533e04333b28124df47a195de77540445af5) (by Wooyoung) :heavy_check_mark: 
 - [2주차: 6/21~6/25](추후 week 정리 자료 url 업데이터 예정)
-  - [DAY4] [스택/큐 이론] (https://github.com/TIL-Study-Group/TIL-Study/blob/main/Stack_Queue.md) (by Yejin) :heavy_check_mark: 
+  - [DAY4] [스택/큐 이론](https://github.com/TIL-Study-Group/TIL-Study/blob/main/Stack_Queue.md) (by Yejin) :heavy_check_mark: 
   - [DAY5] 스택/큐 (2)
   - [DAY6] 스택/큐 문제풀이
 - [3주차: 6/28~7/2](추후 week 정리 자료 url 업데이터 예정)
