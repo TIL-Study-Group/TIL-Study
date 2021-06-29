@@ -22,7 +22,7 @@
   - [DAY5] 스택/큐 (2)
   - [DAY6] 스택/큐 문제풀이
 - [3주차: 6/28~7/2](추후 week 정리 자료 url 업데이터 예정)
-  - [DAY7] 힙(Heap) (1)
+  - [DAY7] [힙 이론](https://github.com/rhkrdndud22/programus/tree/main/%ED%9E%99)(by Wooyoung) ✔️ 
   - [DAY8] 힙(Heap) (2)
   - [DAY9] 힙(Heap) 문제풀이
 - [4주차: 7/5~7/9](추후 week 정리 자료 url 업데이터 예정)
